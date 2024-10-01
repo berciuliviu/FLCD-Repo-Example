@@ -19,4 +19,4 @@ Welcome to this (2024-2025) semester's FLCD lab work! Make sure to follow the ru
 
 ---
 
-> **TODO**: First commit - a file with your programming language of choice as the name (ex. python.txt)
+<span style="color:red; font-size: 18px; font-weight:bold;">IMPORTANT: rename the file "programming-language:&lt;language&gt;" with your programming language of choice</span>
